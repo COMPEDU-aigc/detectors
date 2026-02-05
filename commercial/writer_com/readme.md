@@ -1,0 +1,1 @@
+https://writer.com/ai-content-detector/

@@ -1,0 +1,18 @@
+curl 'https://api.originality.ai/api/v2-tools/free-tools/ai-scan' \
+  -H 'authority: api.originality.ai' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/json' \
+  -H 'origin: https://tools.originality.ai' \
+  -H 'pragma: no-cache' \
+  -H 'referer: https://tools.originality.ai/' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --data-raw '{"content":"Elephants, the largest land animals on Earth, are recognized by their massive bodies, large ears, and iconic trunks. They belong to the family Elephantidae and the order Proboscidea. There are three species traditionally recognized: the African bush elephant, the African forest elephant, and the Asian elephant, each distinct in their habitat and physical attributes.\nElephants, the largest land animals on Earth, are recognized by their massive bodies, large ears, and iconic trunks. They belong to the family Elephantidae and the order Proboscidea. There are three species traditionally recognized: the African bush elephant, the African forest elephant, and the Asian elephant, each distinct in their habitat and physical attributes.\nElephants, the largest land animals on Earth, are recognized by their massive bodies, large ears, and iconic trunks. They belong to the family Elephantidae and the order Proboscidea. There are three species traditionally recognized: the African bush elephant, the African forest elephant, and the Asian elephant, each distinct in their habitat and physical attributes.\n"}' \
+  --compressed

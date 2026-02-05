@@ -1,0 +1,1 @@
+https://www.scribbr.com/ai-detector/

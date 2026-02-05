@@ -1,0 +1,18 @@
+curl 'https://discriminate.grover.allenai.org/api/disc' \
+  -H 'authority: discriminate.grover.allenai.org' \
+  -H 'accept: application/json, text/plain, */*' \
+  -H 'accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/json;charset=UTF-8' \
+  -H 'origin: https://grover.allenai.org' \
+  -H 'pragma: no-cache' \
+  -H 'referer: https://grover.allenai.org/' \
+  -H 'sec-ch-ua: "Not A(Brand";v="99", "Google Chrome";v="121", "Chromium";v="121"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-site' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36' \
+  --data-raw $'{"article":"Nickey Iyambo, former vice-president of Namibia, died on Sunday, early in the morning. He was 82\\nyears old.\\nThe current president of Namibia, Hage Geingob, expressed his sadness at Iyambo\'s death. Geingob tweeted, \\"I announce with sadness the passing of my comrade, former Vice President, Nickey Iyambo.  He leaves behind a rich legacy of loyal service to the Namibian people. The nation has lost a freedom fighter and a leader with deep humane values. Condolences to his wife and family.\\"\\nLast year, poor health was cited when he stepped down from his position.\\nHe was awarded the Most Brilliant Order of the Sun, first class — a high national honor conferred by the president of Namibia — in 2014.","domain":"","date":"","authors":"","title":"","target":"discrimination"}' \
+  --compressed

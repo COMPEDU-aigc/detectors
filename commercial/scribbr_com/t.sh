@@ -1,0 +1,19 @@
+curl 'https://www.scribbr.com/ai-detector.php' \
+  -H 'authority: www.scribbr.com' \
+  -H 'accept: */*' \
+  -H 'accept-language: en-US,en;q=0.9,zh-CN;q=0.8,zh;q=0.7' \
+  -H 'cache-control: no-cache' \
+  -H 'content-type: application/json' \
+  -H 'cookie: CookieConsent={stamp:%27-1%27%2Cnecessary:true%2Cpreferences:true%2Cstatistics:true%2Cmarketing:true%2Cmethod:%27implied%27%2Cver:1%2Cutc:1695102682393%2Cregion:%27SG%27}; _ga=GA1.2.14595778.1695102682; _gid=GA1.2.98288965.1695102682; _gat_UA-36194342-1=1; _gat_UA-36194342-13=1; _ga_2W8FV83W3B=GS1.1.1695102682.1.0.1695102682.60.0.0; _ga_MQJZ5EJ69M=GS1.2.1695102682.1.1.1695102682.0.0.0; sf_prod_roles=%5B%22ANONYMOUS%22%5D; _clck=w7t09c|2|ff5|0|1357; currencyCode=NA; _clsk=1vhn5oq|1695102683559|1|0|o.clarity.ms/collect; intercom-id-j5bqym5d=7d7f12cf-f3a0-4567-ba5b-e71dfebe5579; intercom-session-j5bqym5d=; intercom-device-id-j5bqym5d=aee4e74c-9970-4b2d-8905-0de9c10ec064; amp_6ae9ad=zNoCgsu6AOMiMDdNrNcaeb...1halvsgt2.1halvt37u.3.2.5' \
+  -H 'origin: https://www.scribbr.com' \
+  -H 'pragma: no-cache' \
+  -H 'referer: https://www.scribbr.com/ai-detector/' \
+  -H 'sec-ch-ua: "Chromium";v="116", "Not)A;Brand";v="24", "Google Chrome";v="116"' \
+  -H 'sec-ch-ua-mobile: ?0' \
+  -H 'sec-ch-ua-platform: "macOS"' \
+  -H 'sec-fetch-dest: empty' \
+  -H 'sec-fetch-mode: cors' \
+  -H 'sec-fetch-site: same-origin' \
+  -H 'user-agent: Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36' \
+  --data-raw $'{"text":"info_rawFamotidine is used to treat ulcers of the stomach and intestines and to prevent intestinal ulcers from coming back after they have healed. This medication is also used to treat certain stomach and throat (esophagus) problems (such as erosive esophagitis, gastroesophageal reflux disease-GERD, Zollinger-Ellison syndrome). It works by decreasing the amount of acid your stomach makes. It relieves symptoms such as cough that doesn\'t go away, stomach pain, heartburn, and difficulty swallowing. Famotidine belongs to a class of drugs known as H2 blockers.This medication is also available without a prescription. It is used to prevent and treat heartburn and other symptoms caused by too much acid in the stomach (acid indigestion). If you are taking this medication for self-treatment, it is important to read the manufacturer\'s package instructions carefully so you know when to consult your doctor or pharmacist.\\n\\n"}' \
+  --compressed
